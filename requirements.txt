@@ -1,8 +1,8 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-transformers==4.35.2
+fastapi
+uvicorn[standard]
+transformers
 torch
-torchvision==0.16.1
-pillow==10.1.0
-python-multipart==0.0.6
-accelerate==0.25.0
+torchvision
+pillow
+python-multipart
+accelerate
